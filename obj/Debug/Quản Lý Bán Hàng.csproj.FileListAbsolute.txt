@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\bin\Debug\Quản Lý Bán Hàng.exe.config
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\bin\Debug\Quản Lý Bán Hàng.exe
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\bin\Debug\Quản Lý Bán Hàng.pdb
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản Lý Bán Hàng.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản_Lý_Bán_Hàng.frmKhachHang.resources
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản_Lý_Bán_Hàng.frmNhaCungCap.resources
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản_Lý_Bán_Hàng.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản Lý Bán Hàng.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản Lý Bán Hàng.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản Lý Bán Hàng.exe
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản Lý Bán Hàng.pdb
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản Lý Bán Hàng.exe.config
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản_Lý_Bán_Hàng.frmNhanVien.resources
+C:\Users\LENOVO\source\repos\Quản Lý Bán Hàng\Quản Lý Bán Hàng\obj\Debug\Quản_Lý_Bán_Hàng.frmMain.resources
